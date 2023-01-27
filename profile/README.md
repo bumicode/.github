@@ -1,3 +1,7 @@
+BUM;CODE adalah sebuah organisasi yang berlokasi di Sukabumi, Jawa Barat yang fokus pada pengembangan kolaboratif dan proyek open source. Kami percaya bahwa dengan bekerja sama, kita dapat menciptakan solusi yang inovatif, belajar dari satu sama lain, dan tumbuh bersama-sama. Kegiatan komunitas kami mengedepankan pembelajaran dan pengembangan keterampilan dalam bidang pemrograman dan teknologi. Kami mengutamakan proyek open source sebagai sarana untuk belajar dan berbagi pengetahuan serta mengembangkan keterampilan. 
+
+Kami menyambut semua orang yang ingin belajar dan berbagi pengetahuan tentang pemrograman dan teknologi serta proyek open source untuk bergabung dengan komunitas kami.
+
 code with ❤ from sukabumi
 <!--
 ## Hi there 👋
